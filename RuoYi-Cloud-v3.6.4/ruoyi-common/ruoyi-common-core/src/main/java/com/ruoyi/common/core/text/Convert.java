@@ -114,6 +114,7 @@ public class Convert
         final String valueStr = toStr(value, null);
         if (StringUtils.isEmpty(valueStr))
         {
+            System.out.println("修改！");
             return defaultValue;
         }
         try
