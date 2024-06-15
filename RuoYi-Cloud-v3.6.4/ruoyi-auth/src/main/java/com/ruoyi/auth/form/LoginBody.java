@@ -1,7 +1,7 @@
 package com.ruoyi.auth.form;
 
 /**
- * 用户登录对象
+ * 用户登录
  * 
  * @author ruoyi
  */
