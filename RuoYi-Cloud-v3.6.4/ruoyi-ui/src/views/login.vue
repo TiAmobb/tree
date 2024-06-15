@@ -54,7 +54,7 @@
         </div>
       </el-form-item>
     </el-form>
-    <!--  底部  -->
+    <!--  底部栏 -->
     <div class="el-login-footer">
       <span>Copyright © 2018-2024 ruoyi.vip All Rights Reserved.</span>
     </div>
