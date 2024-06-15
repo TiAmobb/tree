@@ -22,7 +22,7 @@ import io.jsonwebtoken.Claims;
 import reactor.core.publisher.Mono;
 
 /**
- * 网关鉴权
+ * 网关鉴权部分
  * 
  * @author ruoyi
  */
